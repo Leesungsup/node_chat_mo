@@ -4,7 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import com.dongchyeon.simplechatapp.databinding.ActivityMainBinding;
+
+import com.example.node_chat_mo.databinding.ActivityMainBinding;
+
 
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
